@@ -2,6 +2,10 @@
 
 A modern quote management application built with Laravel and Next.js. Create, view, and manage inspirational quotes with a clean and intuitive interface.
 
+<div align="center">
+  <img src="quick-quote.png" alt="Quick Quote Application" width="800">
+</div>
+
 ## 🚀 Features
 
 -   **Create Quotes**: Add new quotes with optional author attribution
@@ -304,7 +308,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Authors
 
--   Your Name - Initial work
+-   Ivan Traykov - Initial work
 
 ## 🐛 Issues
 
